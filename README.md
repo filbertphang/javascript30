@@ -1,5 +1,21 @@
 # javascript30
 
+## Daily Report for 30 Jan
+
+### Completed
+
+**Lesson 5: Flex Panels Image Gallery** 10:09pm to 10:33pm
+
+**Lesson 6: Ajax Type Ahead** 10:37pm to 11:07pm
+
+### Planned to complete:
+
+Lessons 5
+
+### Difficulties
+
+- not very familiar with flexbox
+
 ## Daily Report for 29 Jan
 
 ### Completed: 
@@ -22,18 +38,3 @@ Lessons 1-3
 
 - added an extra ; in a style code and wondered why my css wasnt changing 
 
-## Daily Report for 30 Jan
-
-### Completed
-
-**Lesson 5: Flex Panels Image Gallery** 10:09pm to 10:33pm
-
-**Lesson 6: Ajax Type Ahead** 10:37pm to 11:07pm
-
-### Planned to complete:
-
-Lessons 5
-
-### Difficulties
-
-- not very familiar with flexbox
