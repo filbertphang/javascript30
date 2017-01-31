@@ -1,5 +1,11 @@
 # javascript30
 
+## Daily Report for 31 Jan
+
+### Completed
+
+**Lesson 7: Array Cardio 2** 11:53am to 12:02pm
+
 ## Daily Report for 30 Jan
 
 ### Completed
