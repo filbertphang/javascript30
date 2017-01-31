@@ -10,6 +10,8 @@
 
 **Lesson 9: 14 Must Know Dev Tools Tricks** 12:32pm to 12:42pm
 
+**Lesson 10: Hold Shift to Check Multiple Checkboxes** 8:10pm to 8:26pm
+
 ### Planned to complete:
 
 Lessons 7 - 9
