@@ -5,7 +5,9 @@
 ### Completed
 
 **Lesson 7: Array Cardio 2** 11:53am to 12:02pm
+
 **Lesson 8: Fun with HTML5 Canvas** 12:04pm to 12:29pm
+
 **Lesson 9: 14 Must Know Dev Tools Tricks** 12:32pm to 12:42pm
 
 ### Planned to complete:
