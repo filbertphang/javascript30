@@ -12,6 +12,8 @@
 
 **Lesson 10: Hold Shift to Check Multiple Checkboxes** 8:10pm to 8:26pm
 
+**Lesson 11: Custom HTML5 Video Player** 8:30pm to 9:10pm
+
 ### Planned to complete:
 
 Lessons 7 - 9
