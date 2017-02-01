@@ -1,5 +1,19 @@
 # javascript30
 
+## Daily Report for 1 Feb
+
+### Completed
+
+**Lesson 12: Key Sequence Detection (KONAMI CODE)** 10:13pm to 10:19pm
+
+### Planned to complete
+
+Lesson 12 - 13
+
+### Difficulties
+
+-
+
 ## Daily Report for 31 Jan
 
 ### Completed
