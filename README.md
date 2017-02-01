@@ -6,6 +6,8 @@
 
 **Lesson 12: Key Sequence Detection (KONAMI CODE)** 10:13pm to 10:19pm
 
+**Lesson 13: Slide in on Scroll** 10:34pm to 10:48pm
+
 ### Planned to complete
 
 Lesson 12 - 13
