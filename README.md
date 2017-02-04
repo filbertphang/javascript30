@@ -1,5 +1,21 @@
 # javascript30
 
+## Daily Report for 4 Feb
+
+### Completed
+
+**Lesson 14: Object and Arrays - Reference VS Copy** 6:28pm to 6:44pm
+
+**Lesson 15: LocalStorage and Event Delegation** 6:58pm to 7:51pm
+
+### Planned to complete
+
+Lesson 14 - 16
+
+### Difficulties
+
+-
+
 ## Daily Report for 1 Feb
 
 ### Completed
