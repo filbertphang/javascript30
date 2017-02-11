@@ -10,6 +10,12 @@
 
 **Lesson 19: Unreal Webcam Fun** 11:40am to 12:49pm
 
+**Lesson 20: Native Speech Recognition** 2:03pm to 2:23pm
+
+**Lesson 21: Geolocation based Speedometer and Compass** 2:37pm to 2:51pm
+
+**Lesson 22: Follow Along Links** 2:53pm to 3:07pm
+
 ### Planned to complete
 
 Lessons 17 - 22
@@ -17,6 +23,8 @@ Lessons 17 - 22
 ### Difficulties
 
 - not familiar with the canvas functions so pretty much had to just follow step by step what the instructor did
+
+- unable to connect to local server on phone so unable to test project 21
 
 ## Daily Report for 4 Feb
 
