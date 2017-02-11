@@ -1,5 +1,17 @@
 # javascript30
 
+## Daily Report for 11 Feb
+
+### Completed
+
+**Lesson 17: Sorting Band Names without articles** 11:10am to 11:19am
+
+**Lesson 18: Tally String Times with Reduce** 
+
+### Planned to complete
+
+Lessons 17 - 22
+
 ## Daily Report for 4 Feb
 
 ### Completed
@@ -8,9 +20,11 @@
 
 **Lesson 15: LocalStorage and Event Delegation** 6:58pm to 7:51pm
 
+**Lesson 16: CSS Text Shadow Mouse Move Effect** 10:08pm to 10:37pm
+
 ### Planned to complete
 
-Lesson 14 - 16
+Lessons 14 - 16
 
 ### Difficulties
 
