@@ -6,11 +6,17 @@
 
 **Lesson 17: Sorting Band Names without articles** 11:10am to 11:19am
 
-**Lesson 18: Tally String Times with Reduce** 
+**Lesson 18: Tally String Times with Reduce** 11:27am to 11:39am
+
+**Lesson 19: Unreal Webcam Fun** 11:40am to 12:49pm
 
 ### Planned to complete
 
 Lessons 17 - 22
+
+### Difficulties
+
+- not familiar with the canvas functions so pretty much had to just follow step by step what the instructor did
 
 ## Daily Report for 4 Feb
 
