@@ -1,5 +1,19 @@
 # javascript30
 
+## Daily Report for 12 Feb
+
+### Completed
+
+**Lesson 23: Speech Synthesis** 9:41pm to 10:38pm
+
+### Planned to complete
+
+Lesson 23
+
+### Difficulties
+
+-
+
 ## Daily Report for 11 Feb
 
 ### Completed
