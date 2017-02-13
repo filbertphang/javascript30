@@ -1,5 +1,17 @@
 # javascript30
 
+## Daily Report for 13 Feb
+
+### Completed
+
+**Lesson 24: Sticky Nav** 9:33pm to 
+
+### Planned to complete
+
+Lesson 24
+
+### Difficulties
+
 ## Daily Report for 12 Feb
 
 ### Completed
