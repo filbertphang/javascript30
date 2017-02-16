@@ -1,16 +1,32 @@
 # javascript30
 
+## Daily Report for 16 Feb
+
+### Completed
+
+**Lesson 25: Event Capture, Propagation, Bubbling and Once** 10:24pm to 10:34pm
+
+### Planned to complete
+
+Lesson 25
+
+### Difficulties
+
+-
+
 ## Daily Report for 13 Feb
 
 ### Completed
 
-**Lesson 24: Sticky Nav** 9:33pm to 
+**Lesson 24: Sticky Nav** 9:33pm to 9:56pm
 
 ### Planned to complete
 
 Lesson 24
 
 ### Difficulties
+
+-
 
 ## Daily Report for 12 Feb
 
