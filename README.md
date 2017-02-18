@@ -4,7 +4,9 @@
 
 ### Completed
 
-**Lesson 26: Stripe Follow Along Dropdown** 9:26pm to 
+**Lesson 26: Stripe Follow Along Dropdown** 9:26pm to 9:48pm
+
+**Lesson 27: Click and Drag to Scroll** 9:50pm to 10:07pm
 
 ### Planned to complete
 
