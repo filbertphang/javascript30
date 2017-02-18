@@ -1,5 +1,19 @@
 # javascript30
 
+## Daily Report for 18 Feb
+
+### Completed
+
+**Lesson 26: Stripe Follow Along Dropdown** 9:26pm to 
+
+### Planned to complete
+
+Lessons 26-27
+
+### Difficulties
+
+-
+
 ## Daily Report for 16 Feb
 
 ### Completed
