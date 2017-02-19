@@ -6,9 +6,9 @@
 
 **Lesson 28: Video Speed Controller UI** 9:59am to 10:15am
 
-**Lesson 29: Countdown Clock** 
+**Lesson 29: Countdown Clock** 10:17am to 10:48am
 
-**Lesson 30: Whack a mole**
+**Lesson 30: Whack-a-mole** 
 
 #### Planned to complete
 
