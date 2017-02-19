@@ -1,5 +1,23 @@
 # javascript30
 
+## Daily Report for 19 Feb
+
+### Completed
+
+**Lesson 28: Video Speed Controller UI** 9:59am to 10:15am
+
+**Lesson 29: Countdown Clock** 
+
+**Lesson 30: Whack a mole**
+
+#### Planned to complete
+
+Lessons 28-30
+
+### Difficulties
+
+-
+
 ## Daily Report for 18 Feb
 
 ### Completed
