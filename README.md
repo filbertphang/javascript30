@@ -8,7 +8,7 @@
 
 **Lesson 29: Countdown Clock** 10:17am to 10:48am
 
-**Lesson 30: Whack-a-mole** 
+**Lesson 30: Whack-a-mole** 10:49am to 11:11am
 
 #### Planned to complete
 
